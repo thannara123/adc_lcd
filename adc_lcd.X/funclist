@@ -1,0 +1,19 @@
+___awdiv: CODE, 510 0 91
+_string: CODE, 225 0 28
+__stringtab: STRING, 3 0 6
+__stringdata: STRING, 9 0 63
+_lcd_cmd: CODE, 331 0 49
+_lcd_data: CODE, 380 0 51
+___ftpack: CODE, 694 0 104
+___awmod: CODE, 431 0 79
+_main: CODE, 1335 0 709
+__initialization: CODE, 2044 0 0
+_latch: CODE, 209 0 16
+_read_adc: CODE, 286 0 45
+___ftmul: CODE, 1124 0 211
+_adc_init: CODE, 196 0 13
+___awtoft: CODE, 253 0 33
+___fttol: CODE, 798 0 142
+_lcd_init: CODE, 601 0 93
+___ftdiv: CODE, 940 0 184
+Total: 1917
